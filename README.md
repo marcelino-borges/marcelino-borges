@@ -32,9 +32,7 @@ I am graduated in Software Engineering with minor in Hardware Engineering (on Br
 <br />
 
 ### CURRENT WORK:
-Currently working as a Sr. Software Engineer at <a href="https://www.avanade.com/" target="_blank">Avanade</a>.
-<br />
-Currently working as entrepreneur (founder and engineer) at <a href="https://devbox.eng.br" target="_blank" style="color: red">Devbox</a>.
+Working as a Sr. Software Engineer at <a href="https://kneat.com/" target="_blank">Kneat Solutions</a>.
 <br />
 <br />
   
@@ -47,6 +45,7 @@ Only after Jun/2020 I moved to this Github account.
   
 ### LANGUAGES I HAVE WORKED WITH:
 <ul>
+  <li>Typescript</li>
   <li>Javascript</li>
   <li>C#</li>
   <li>Java</li>
@@ -61,14 +60,14 @@ Only after Jun/2020 I moved to this Github account.
   <li>.NET</li>
   <li>Flutter</li>
   <li>Unity 3D</li>
-  <li>Unreal Engine 4</li>
+  <li>Unreal Engine</li>
 </ul>  
   
 ### DATABASES I HAVE WORKED WITH:
 <ul>
-  <li>Firebase</li>
   <li>MongoDB</li>
-  <li>SQL Server (short period)</li>
+  <li>Firebase</li>
+  <li>SQL Server</li>
 </ul>  
 <br />
  
