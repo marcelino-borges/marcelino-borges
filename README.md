@@ -32,7 +32,7 @@ I am graduated in Software Engineering with minor in Hardware Engineering (on Br
 <br />
 
 ### CURRENT WORK:
-Working as a Sr. Software Engineer at <a href="https://kneat.com/" target="_blank">Kneat Solutions</a>.
+Working as a Sr. Software Engineer at <a href="https://www.aramis.com.br/somos-a-aramis" target="_blank">Aramis Inc.</a>.
 <br />
 <br />
   
@@ -50,7 +50,6 @@ Only after Jun/2020 I moved to this Github account.
   <li>C#</li>
   <li>Java</li>
   <li>Dart</li>
-  <li>SQL</li>
 </ul>  
   
 ### FRAMEWORKS I HAVE WORKED WITH:
