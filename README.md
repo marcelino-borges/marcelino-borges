@@ -32,7 +32,7 @@ I am graduated in Software Engineering with minor in Hardware Engineering (on Br
 <br />
 
 ### CURRENT WORK:
-Working as a Sr. Software Engineer at <a href="https://www.aramis.com.br/somos-a-aramis" target="_blank">Aramis Inc.</a>.
+Working as Teach Leader and Software Architect at <a href="https://www.aramis.com.br/somos-a-aramis" target="_blank">Aramis Inc.</a>.
 <br />
 <br />
   
@@ -48,6 +48,7 @@ Only after Jun/2020 I moved to this Github account.
   <li>Typescript</li>
   <li>Javascript</li>
   <li>C#</li>
+  <li>PHP</li>
   <li>Java</li>
   <li>Dart</li>
 </ul>  
@@ -56,6 +57,7 @@ Only after Jun/2020 I moved to this Github account.
 <ul>
   <li>ReactJS</li>
   <li>NodeJS</li>
+  <li>Laravel</li>
   <li>.NET</li>
   <li>Flutter</li>
   <li>Unity 3D</li>
@@ -66,19 +68,20 @@ Only after Jun/2020 I moved to this Github account.
 <ul>
   <li>MongoDB</li>
   <li>Firebase</li>
+  <li>MySQL</li>
   <li>SQL Server</li>
 </ul>  
 <br />
  
 ### HOW YOU CAN REACH ME:
 <div>
+  <a href="https://www.linkedin.com/in/marcelino-borges/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
   <a href="https://www.instagram.com/marcelino__borges/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "mailto:botelho_gt@hotmail.com">
     <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/marcelino-borges/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
