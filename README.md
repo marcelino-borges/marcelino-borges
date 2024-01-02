@@ -55,6 +55,7 @@ Only after Jun/2020 I moved to this Github account.
   
 ### FRAMEWORKS I HAVE WORKED WITH:
 <ul>
+  <li>NextJS</li>
   <li>ReactJS</li>
   <li>NodeJS</li>
   <li>Laravel</li>
@@ -69,6 +70,7 @@ Only after Jun/2020 I moved to this Github account.
   <li>MongoDB</li>
   <li>Firebase</li>
   <li>MySQL</li>
+  <li>PostgreSQL</li>
   <li>SQL Server</li>
 </ul>  
 <br />
