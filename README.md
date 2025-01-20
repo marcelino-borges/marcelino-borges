@@ -1,5 +1,10 @@
 Hey, Marcelino Borges here!
 
+This is my personal Github profile.
+99% of the projects I have worked on were hosted in corporate/private accounts.
+
+Most repositories that live here are for personal projects/hobby.
+
 <br />
 
 <!--
