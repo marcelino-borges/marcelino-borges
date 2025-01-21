@@ -21,15 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### A FEW STATS:
-<div>
-  <a href="https://github.com/marcelino-borges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelino-borges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelino-borges&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-<br />
   
 ### EDUCATION:
 I am graduated in Software Engineering with minor in Hardware Engineering (on Brazil it's called Computer Engineering).
