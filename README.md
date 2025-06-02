@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [HERE](https://www.linkedin.com/in/marcelino-borges)
   
 ### REPOSITORIES:
-Before Jun/2020 I was using mostly my <a href="www.bitbucket.org/marcelino_borges" target="_blank">Bitbucket</a>.
+Before Jun/2020 I was using mostly my [Bitbucket](www.bitbucket.org/marcelino_borges).
 <br />
 Only after Jun/2020 I moved to this Github account.
 <br />
