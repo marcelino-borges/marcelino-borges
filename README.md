@@ -21,16 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-### EDUCATION:
-I am graduated in Software Engineering with minor in Hardware Engineering (on Brazil it's called Computer Engineering).
-<br />
-<br />
 
-### CURRENT WORK:
-Working as Teach Leader and Software Architect at <a href="https://www.aramis.com.br/somos-a-aramis" target="_blank">Aramis Inc.</a>.
-<br />
-<br />
+### LinkedIn:
+[HERE](https://www.linkedin.com/in/marcelino-borges)
   
 ### REPOSITORIES:
 Before Jun/2020 I was using mostly my <a href="www.bitbucket.org/marcelino_borges" target="_blank">Bitbucket</a>.
@@ -47,13 +40,17 @@ Only after Jun/2020 I moved to this Github account.
   <li>PHP</li>
   <li>Java</li>
   <li>Dart</li>
+  <li>C++</li>
+  <li>C</li>
 </ul>  
   
-### FRAMEWORKS I HAVE WORKED WITH:
+### SOME OTHER TECHS:
 <ul>
   <li>NextJS</li>
   <li>ReactJS</li>
   <li>NodeJS</li>
+  <li>ExpressJS</li>
+  <li>NestJS</li>
   <li>Laravel</li>
   <li>.NET</li>
   <li>Flutter</li>
@@ -78,7 +75,7 @@ Only after Jun/2020 I moved to this Github account.
   </a> 
   <a href="https://www.instagram.com/marcelino__borges/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href = "mailto:botelho_gt@hotmail.com">
     <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
